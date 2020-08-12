@@ -1,4 +1,4 @@
-# Task
+# Template
 
 ## Installation
 Clone or download this repository. Install dependencies ```composer install```
